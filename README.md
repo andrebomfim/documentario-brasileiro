@@ -67,3 +67,7 @@ Arquivo `docbrasil.csv` no diretório de execução, pronto para importação no
 - O script usa sessão com cookies para simular navegação convencional.
 - A gravação é incremental: em caso de interrupção, os dados já extraídos são preservados no CSV.
 - O parâmetro `pmax` define o limite máximo de páginas a percorrer (padrão: 2000).
+
+## Dados
+
+A publicação dos dados extraídos em formato CSV foi autorizada por Katia Holanda, responsável pelo projeto e site documentariobrasileiro.com.br.
